@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T07:58:56 IST" name="Default suite" finished-at="2024-04-24T08:01:06 IST" duration-ms="129722">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T07:58:56 IST" name="Default test" finished-at="2024-04-24T08:01:06 IST" duration-ms="129722">
+      <class name="com.orikan.testcases.OrikanTestcases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T07:58:45 IST" name="setUp" finished-at="2024-04-24T07:58:56 IST" duration-ms="11149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC001_OrikanHomePageDefaultValidations()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T07:58:56 IST" name="TC001_OrikanHomePageDefaultValidations" finished-at="2024-04-24T07:58:56 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_OrikanHomePageDefaultValidations -->
+        <test-method signature="TC002_PasswordValidations()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T07:58:56 IST" name="TC002_PasswordValidations" finished-at="2024-04-24T07:59:39 IST" duration-ms="43055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_PasswordValidations -->
+        <test-method signature="TC002_emailAddressPage()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T07:59:39 IST" name="TC002_emailAddressPage" finished-at="2024-04-24T08:00:12 IST" duration-ms="33067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_emailAddressPage -->
+        <test-method signature="TC003_ContactValidations()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T08:00:12 IST" name="TC003_ContactValidations" finished-at="2024-04-24T08:00:59 IST" duration-ms="46838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_ContactValidations -->
+        <test-method signature="TC004_NavigateToPayment()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T08:00:59 IST" name="TC004_NavigateToPayment" finished-at="2024-04-24T08:01:06 IST" duration-ms="6609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004_NavigateToPayment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orikan.testcases.OrikanTestcases@cb0755b]" started-at="2024-04-24T08:01:06 IST" name="tearDown" finished-at="2024-04-24T08:01:06 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orikan.testcases.OrikanTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
